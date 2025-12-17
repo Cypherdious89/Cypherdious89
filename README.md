@@ -87,13 +87,6 @@ Full-stack engineer specializing in **AI-enabled products**, **cloud-native arch
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cypherdious89&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 ### 💡 Technical Expertise
 
 **🏗️ Architecture & System Design**  
