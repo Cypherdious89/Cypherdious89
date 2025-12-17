@@ -78,7 +78,7 @@ Full-stack engineer specializing in **AI-enabled products**, **cloud-native arch
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypherdious89&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cypherdious89&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cypherdious89&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
